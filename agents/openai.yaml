@@ -1,0 +1,3 @@
+interface:
+  display_name: "Launchd Local Web Hosting"
+  short_description: "Keep local web servers running on macOS"
